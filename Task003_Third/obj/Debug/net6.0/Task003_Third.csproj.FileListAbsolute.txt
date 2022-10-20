@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\bin\Debug\net6.0\Task003_Third.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\bin\Debug\net6.0\Task003_Third.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\bin\Debug\net6.0\Task003_Third.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\bin\Debug\net6.0\Task003_Third.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\bin\Debug\net6.0\Task003_Third.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\refint\Task003_Third.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\Task003_Third.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar2\Task003_Third\obj\Debug\net6.0\ref\Task003_Third.dll
