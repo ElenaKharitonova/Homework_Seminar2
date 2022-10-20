@@ -23,7 +23,7 @@ bool ValidateNumber(int number)
 int number = Prompt("Введите число от 1 до 7, соответствующее дню недели: ");
 if (ValidateNumber(number))
 {
-    if (number > 1 && number < 6)
+    if (number >= 1 && number < 6)
     {
         Console.WriteLine($"{number} не является выходным днем");
     }
